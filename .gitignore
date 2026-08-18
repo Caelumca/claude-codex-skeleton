@@ -1,0 +1,8 @@
+# Raw runner output — disposable, regenerated on every run
+.qa/raw/
+
+# Common local noise
+.DS_Store
+.env
+.env.local
+*.log
