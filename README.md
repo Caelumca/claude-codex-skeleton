@@ -50,7 +50,7 @@ nothing more.
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/project-skeleton.git
+git clone https://github.com/Caelumca/claude-codex-skeleton.git
 bash project-skeleton/init.sh /path/to/your-project
 ```
 
